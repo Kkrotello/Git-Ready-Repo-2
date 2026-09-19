@@ -1,2 +1,1 @@
-"# gitready" 
-"# gitready" 
+# Git-Ready-Repo-2
